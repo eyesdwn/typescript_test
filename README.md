@@ -1,1 +1,1 @@
-# typescript_test
+Todo app created with typescript + React
